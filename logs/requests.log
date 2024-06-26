@@ -1,0 +1,12 @@
+26-06-2024 15:22:55.331 INFO: Incoming request | #1 | resource: /books/total | HTTP Verb GET | request #1
+26-06-2024 15:22:59.109 INFO: Incoming request | #2 | resource: /book | HTTP Verb POST | request #2
+26-06-2024 15:23:02.367 INFO: Incoming request | #3 | resource: /book | HTTP Verb POST | request #3
+26-06-2024 15:23:05.234 INFO: Incoming request | #4 | resource: /book | HTTP Verb GET | request #4
+26-06-2024 15:23:08.335 INFO: Incoming request | #5 | resource: /book | HTTP Verb POST | request #5
+26-06-2024 15:23:11.173 INFO: Incoming request | #6 | resource: /logs/level | HTTP Verb PUT | request #6
+26-06-2024 15:23:14.159 INFO: Incoming request | #7 | resource: /book | HTTP Verb POST | request #7
+26-06-2024 15:23:17.290 INFO: Incoming request | #8 | resource: /books | HTTP Verb GET | request #8
+26-06-2024 15:23:20.797 INFO: Incoming request | #9 | resource: /books | HTTP Verb GET | request #9
+26-06-2024 15:23:26.162 INFO: Incoming request | #10 | resource: /book | HTTP Verb PUT | request #10
+26-06-2024 15:23:29.137 INFO: Incoming request | #11 | resource: /book | HTTP Verb DELETE | request #11
+26-06-2024 15:23:32.177 INFO: Incoming request | #12 | resource: /books/total | HTTP Verb GET | request #12
